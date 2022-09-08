@@ -1,2 +1,1 @@
-# Special-Topics-Website-Project
-This is a repository for my electric vehicle website.
+# Course Notes and Information
